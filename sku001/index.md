@@ -1,55 +1,52 @@
-<!-- SKU001：顾家真皮沙发（头层牛皮 三人位） -->
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>梓光智能 | 顾家真皮沙发-嗒一下领福利</title>
-    <!-- 适配手机端，避免弹窗变形 -->
-    <style>
-        body {margin: 0; padding: 20px; font-family: "微软雅黑"; background-color: #f5f5f5;}
-        .container {max-width: 400px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px #eee;}
-        .sku-title {text-align: center; color: #333; font-size: 18px; margin-bottom: 20px;}
-        .auth-btn {display: block; width: 100%; padding: 15px; background: #0088ff; color: white; text-align: center; border: none; border-radius: 8px; font-size: 16px; margin: 20px 0; text-decoration: none;}
-        .benefit-item {margin: 15px 0; padding: 10px; border-left: 4px solid #0088ff; background: #f9f9f9;}
-        .benefit-title {font-weight: bold; color: #333; margin-bottom: 5px;}
-        .benefit-desc {color: #666; font-size: 14px;}
-        .link-btn {color: #0088ff; text-decoration: none; font-size: 14px;}
-        .points-tips {text-align: center; color: #999; font-size: 12px; margin-top: 20px;}
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- SKU名称 -->
-        <h2 class="sku-title">顾家真皮沙发（头层牛皮 三人位）</h2>
-        
-        <!-- 微信授权弹窗提示（模拟，实际对接微信授权接口） -->
-        <a href="微信授权接口链接" class="auth-btn">🔑 微信授权领专属福利</a>
-        
-        <!-- 一嗒三得核心福利 -->
-        <div class="benefit-item">
-            <div class="benefit-title">🎁 福利1：产品电子册</div>
-            <div class="benefit-desc">包含产品实拍图、360°视频、参数说明</div>
-            <a href="https://da.dayixia.cn/assets/sku001-catalog.pdf" class="link-btn">点击查看电子册</a>
-        </div>
-        
-        <div class="benefit-item">
-            <div class="benefit-title">🎫 福利2：品牌折扣券</div>
-            <div class="benefit-desc">顾家家居线下门店/线上商城通用，满5000减500元</div>
-            <a href="https://da.dayixia.cn/assets/sku001-coupon.png" class="link-btn">点击领取折扣券</a>
-        </div>
-        
-        <div class="benefit-item">
-            <div class="benefit-title">🎯 福利3：异业礼品券</div>
-            <div class="benefit-desc">箭牌卫浴进店礼品券（免费领取定制洗漱套装）</div>
-            <a href="https://da.dayixia.cn/assets/sku001-gift.png" class="link-btn">点击领取礼品券</a>
-        </div>
-        
-        <!-- 会员积分提示 -->
-        <div class="points-tips">
-            ✨ 授权后自动获得100积分+5成长值<br>
-            🪙 品牌商家将获得对应梓光币奖励
-        </div>
-    </div>
-</body>
-</html>
+# 顾家真皮沙发（KUKA-B8232）产品册
+> SKU001 | 顾家家居 | 头层牛皮 | 三人位 | 现代简约
+
+---
+
+## 🔍 产品亮点
+- **材质**：进口头层黄牛皮，触感细腻，耐磨抗皱
+- **结构**：实木框架+高回弹海绵，稳固耐用，久坐不塌
+- **设计**：现代简约风格，适配多种家居风格
+- **尺寸**：220cm × 90cm × 85cm
+
+---
+
+## 🖼️ 产品实拍图
+
+![主图](images/KUKA-B8232主图.jpg)
+
+![细节1：皮质纹理](images/O1CN017uQPIz1zPrUg6LN5B_!!661916707.avif)
+![细节2：缝线工艺](images/O1CN01DQMk8L1zPrUgYDtXp_!!661916707.avif)
+![细节3：沙发脚](images/O1CN01EYByES1zPrUfM2tID_!!661916707.avif)
+
+---
+
+## 🎬 产品视频
+
+### 360° 展示视频
+[点击观看 360° 展示视频](https://www.bilibili.com/video/你的视频BV号/)
+
+> 视频展示沙发多角度细节、坐感体验、安装过程等。
+
+### 安装说明视频
+[点击观看安装说明视频](https://www.bilibili.com/video/你的视频BV号/)
+
+---
+
+## 📋 技术参数
+
+| 项目 | 参数 |
+|------|------|
+| 品牌 | 顾家家居 |
+| 型号 | KUKA-B8232 |
+| 材质 | 头层牛皮 + 实木框架 |
+| 颜色 | 米白 / 深灰 / 咖啡棕 |
+| 净重 | 85kg |
+| 包装尺寸 | 230 × 100 × 90cm |
+
+---
+
+## 🛒 购买信息
+- 官方指导价：¥12,999
+- 门店活动价：¥9,999
+- 质保：3年框架质保，1年皮质质保
