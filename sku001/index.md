@@ -29,17 +29,19 @@
             <a href="https://da.dayixia.cn/sku001/catalog" class="link-btn">点击查看电子册</a>
         </div>
         
-        <div class="benefit-item">
-            <div class="benefit-title">🎫 福利2：品牌折扣券</div>
-            <div class="benefit-desc">顾家家居线下门店/线上商城通用，满5000减500元</div>
-            <a href="https://da.dayixia.cn/assets/sku001-coupon.png" class="link-btn">点击领取折扣券</a>
-        </div>
-        
-        <div class="benefit-item">
-            <div class="benefit-title">🎯 福利3：异业礼品券</div>
-            <div class="benefit-desc">箭牌卫浴进店礼品券（免费领取定制洗漱套装）</div>
-            <a href="https://da.dayixia.cn/assets/sku001-gift.png" class="link-btn">点击领取礼品券</a>
-        </div>
+        <!-- 福利2：品牌折扣券（修改链接） -->
+<div class="benefit-item">
+    <div class="benefit-title">🎫 福利2：品牌折扣券</div>
+    <div class="benefit-desc">顾家家居线下门店/线上商城通用，满5000减500元</div>
+    <a href="https://da.dayixia.cn/sku001/catalog/images/sku001-coupon.png" class="link-btn">点击领取折扣券</a>
+</div>
+
+<!-- 福利3：异业礼品券（修改链接） -->
+<div class="benefit-item">
+    <div class="benefit-title">🎯 福利3：异业礼品券</div>
+    <div class="benefit-desc">箭牌卫浴进店礼品券（免费领取定制洗漱套装）</div>
+    <a href="https://da.dayixia.cn/sku001/catalog/images/sku001-gift.png" class="link-btn">点击领取礼品券</a>
+</div>
         
         <div class="points-tips">
             ✨ 授权后自动获得100积分+5成长值<br>
